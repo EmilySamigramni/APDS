@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\bin\Debug\net8.0\ProblemA.exe
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\bin\Debug\net8.0\ProblemA.deps.json
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\bin\Debug\net8.0\ProblemA.runtimeconfig.json
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\bin\Debug\net8.0\ProblemA.dll
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\bin\Debug\net8.0\ProblemA.pdb
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\obj\Debug\net8.0\ProblemA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\obj\Debug\net8.0\ProblemA.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\obj\Debug\net8.0\ProblemA.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\obj\Debug\net8.0\ProblemA.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\obj\Debug\net8.0\ProblemA.dll
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\obj\Debug\net8.0\refint\ProblemA.dll
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\obj\Debug\net8.0\ProblemA.pdb
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\obj\Debug\net8.0\ProblemA.genruntimeconfig.cache
+C:\Users\lab_services_student\Documents\Derivco Graduate Apps\ProblemA\obj\Debug\net8.0\ref\ProblemA.dll

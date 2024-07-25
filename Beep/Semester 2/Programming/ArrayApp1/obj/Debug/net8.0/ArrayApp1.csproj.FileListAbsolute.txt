@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\bin\Debug\net8.0\ArrayApp1.exe
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\bin\Debug\net8.0\ArrayApp1.deps.json
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\bin\Debug\net8.0\ArrayApp1.runtimeconfig.json
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\bin\Debug\net8.0\ArrayApp1.dll
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\bin\Debug\net8.0\ArrayApp1.pdb
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\obj\Debug\net8.0\ArrayApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\obj\Debug\net8.0\ArrayApp1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\obj\Debug\net8.0\ArrayApp1.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\obj\Debug\net8.0\ArrayApp1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\obj\Debug\net8.0\ArrayApp1.dll
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\obj\Debug\net8.0\refint\ArrayApp1.dll
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\obj\Debug\net8.0\ArrayApp1.pdb
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\obj\Debug\net8.0\ArrayApp1.genruntimeconfig.cache
+C:\Users\lab_services_student\Documents\Beep\ArrayApp1\obj\Debug\net8.0\ref\ArrayApp1.dll
